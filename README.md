@@ -16,5 +16,7 @@ Steam Deck Gnome themed wallpapers for any GnomeDeckers out there.
 
 **Adwaita Light no logo by request**
 ![Adwaita Light No Logo by request](https://github.com/Wesidetet19/Deck-Gnome-Wallpapers/blob/main/adwaitaldeck_nologo_l.png)
-**Adwaita Purple no logo
+**Adwaita Light no logo 16x9**
+![Adwaita Light no logo 16x9](https://github.com/Wesidetet19/Deck-Gnome-Wallpapers/blob/main/adwaitaldeck_nologo_16x9.png)
+**Adwaita Purple no logo**
 ![Adwaita Purple no logo](https://github.com/Wesidetet19/Deck-Gnome-Wallpapers/blob/main/dexraypurple_adwaitad.png)
