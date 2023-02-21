@@ -12,5 +12,8 @@ Steam Deck Gnome themed wallpapers for any GnomeDeckers out there.
 **Adwaita Dark Blob Deck**
 ![Adwaita Dark Blob/Deck/Gnome](https://github.com/Wesidetet19/Deck-Gnome-Wallpapers/blob/main/mirror.jpg)
 
+**Requests**
 
+**Adwaita Light no logo by request**
+![Adwaita Light No Logo by request](https://github.com/Wesidetet19/Deck-Gnome-Wallpapers/blob/main/adwaitaldeck_nologo_l.png)
 
