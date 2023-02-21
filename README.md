@@ -1,7 +1,7 @@
 # Deck-Gnome-Wallpapers
 Steam Deck Gnome themed wallpapers for any GnomeDeckers out there.
 
-**Dex-Ray Negative Dark**
+**Dex-Ray Negative Light**
 ![Negative Dex-ray Adwaita Light](https://github.com/Wesidetet19/Deck-Gnome-Wallpapers/blob/main/adwaita-lightdeck.jpg)
 **Dex-Ray Adwaita Dark**
 ![Adwaita Darker Dex-ray](https://github.com/Wesidetet19/Deck-Gnome-Wallpapers/blob/main/adwaita-darker.jpg)
